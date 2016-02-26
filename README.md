@@ -75,11 +75,12 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 
 6:20 EM: Retrieval
 
+* Kalantidis, Yannis, Clayton Mellina, and Simon Osindero. ["Cross-dimensional Weighting for Aggregated Deep Convolutional Features."](http://gitxiv.com/posts/PcB7dQsXoSHFAPzTX/cross-dimensional-weighting-for-aggregated-deep) arXiv preprint arXiv:1512.04065 (2015).
+
 6:40 AS: Object detection
 
 * Ren, Shaoqing, Kaiming He, Ross Girshick, and Jian Sun. ["Faster R-CNN: Towards real-time object detection with region proposal networks."](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks) In Advances in Neural Information Processing Systems, pp. 91-99. 2015.
-
-
+*  Caicedo, Juan C., and Svetlana Lazebnik. ["Active object localization with deep reinforcement learning."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Caicedo_Active_Object_Localization_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 2488-2496. 2015
 
 ### Project 3
 (to be decided)
@@ -105,7 +106,6 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 
 4:00 KM & EM: Retrieval
 
-* Kalantidis, Yannis, Clayton Mellina, and Simon Osindero. ["Cross-dimensional Weighting for Aggregated Deep Convolutional Features."](http://gitxiv.com/posts/PcB7dQsXoSHFAPzTX/cross-dimensional-weighting-for-aggregated-deep) arXiv preprint arXiv:1512.04065 (2015).
 
 #### Lecture 4.2
 
