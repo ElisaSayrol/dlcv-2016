@@ -1,11 +1,13 @@
-# deeplearning
-Summer course on Deep Learning for Computer Vision (July 4-8, 2016)
+# Deep Learning for Computer Vision 
+## Summer course in Barcelona (July 4-9, 2016)
 
 Organizers: ETSETB TelecomBCN - Universitat Politecnica de Catalunya and Insight Center for Data Analytics - Dublin City University.
 
 Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), Kevin McGuinness (KM) and Eva Mohedano (EM)
 
 ## Temptative Sessions, Schedule and Related Papers (Under progress)
+
+---
 
 ### Monday 4 July 2016
 
@@ -25,6 +27,8 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 
 ### Project 1
 (to be decided)
+
+---
 
 ### Tuesday 5 July 2016
 
@@ -47,6 +51,8 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 ### Project 2
 (to be decided)
 
+---
+
 ### Wednesday 7 July 2016
 
 #### Lecture 4.1
@@ -67,12 +73,18 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 ### Project 3
 (to be decided)
 
+---
+
 ### Thursday 8 July 2016
 
 #### Lecture 4.1
 
 3:00 KM: Recurrent Neural Networks
+
 3:20 ES: Adversarial networks
+
+* [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](http://arxiv.org/abs/1602.02697)
+
 3:40 XG: Generative models
 
 ### Lab 4
@@ -81,11 +93,16 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 #### Lecture 4.2
 
 6:00 XG: Captioning
+
+* Donahue, Jeffrey, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, and Trevor Darrell. ["Long-term recurrent convolutional networks for visual recognition and description."](http://jeffdonahue.com/lrcn/) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2625-2634. 2015.
+
 6:20 AS: Video processing
 6:40 ES: Deep art
 
 ### Project 4
 (to be decided)
+
+---
 
 ### Friday 9 July 2016
 
