@@ -99,8 +99,13 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 
 3:40 XG: Generative models
 
+* Eric Jian, ["Understanding and Implementing Deepmind's DRAW Model"] (http://evjang.com/articles/draw)
+
 ### Lab 4
+
 4:00 KM & EM: Retrieval
+
+* Kalantidis, Yannis, Clayton Mellina, and Simon Osindero. ["Cross-dimensional Weighting for Aggregated Deep Convolutional Features."](http://gitxiv.com/posts/PcB7dQsXoSHFAPzTX/cross-dimensional-weighting-for-aggregated-deep) arXiv preprint arXiv:1512.04065 (2015).
 
 #### Lecture 4.2
 
