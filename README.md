@@ -44,7 +44,12 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 #### Lecture 2.2
 
 6:00 XG: Imagenet ILSRVC
+* Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, ["Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning"](http://arxiv.org/abs/1602.07261) Arxiv 1602.07261.
+
 6:20 KM: Saliency prediction
+
+* Huang, Xun, Chengyao Shen, Xavier Boix, and Qi Zhao. ["SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Huang_SALICON_Reducing_the_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 262-270. 2015.
+
 6:40 AS: Object proposals
 
 
@@ -67,8 +72,14 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 #### Lecture 3.2
 
 6:00 ES: Face detection and recognition
+
 6:20 EM: Retrieval
+
 6:40 AS: Object detection
+
+* Ren, Shaoqing, Kaiming He, Ross Girshick, and Jian Sun. ["Faster R-CNN: Towards real-time object detection with region proposal networks."](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks) In Advances in Neural Information Processing Systems, pp. 91-99. 2015.
+
+
 
 ### Project 3
 (to be decided)
@@ -80,6 +91,7 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 #### Lecture 4.1
 
 3:00 KM: Recurrent Neural Networks
+* Andrej Karpathy, ["The Unreasonable Effectiveness of Recurrent Neural Networks"](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 3:20 ES: Adversarial networks
 
@@ -93,6 +105,8 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 #### Lecture 4.2
 
 6:00 XG: Captioning
+
+* Karpathy, Andrej, and Li Fei-Fei. ["Deep visual-semantic alignments for generating image descriptions."](http://cs.stanford.edu/people/karpathy/deepimagesent/) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3128-3137. 2015.
 
 * Donahue, Jeffrey, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, and Trevor Darrell. ["Long-term recurrent convolutional networks for visual recognition and description."](http://jeffdonahue.com/lrcn/) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2625-2634. 2015.
 
