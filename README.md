@@ -1,8 +1,6 @@
 # Deep Learning for Computer Vision 
 ## Summer course in Barcelona (July 4-9, 2016)
 
-Organizers: ETSETB TelecomBCN - Universitat Politecnica de Catalunya and Insight Center for Data Analytics - Dublin City University.
-
 ## Instructors
 
 | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Elisa Sayrol][ElisaSayrol-photo]  | ![AmaiaSalvador][AmaiaSalvador-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
@@ -39,15 +37,22 @@ Organizers: ETSETB TelecomBCN - Universitat Politecnica de Catalunya and Insight
 [logo-insight]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/dcu.png "Dublin City University"
 
+## Study guide
+* Course code: 230360 (Phd & master) / To be announced (Bachelor)
+* ECTS credits: 2.5 (between 62.5 and 75 hours, which corresponds to full-time dedication during the week course)
+* Teaching language: English
+* The course will be offered for both master and bachelor students, but under two study programmes adapted to each profile.
+
 
 ## Registration
 Registration procedurs depends on the student profile:
 
-* Master students at ETSETB Telecom BCN: You can already sign up for the course in the academic office. Official study program available here.
-* Bachelor students at ETSETB
-* Phd students at UPC
-* Other Phd students
-* Other cases: There may be open spots in June for other student and professional profiles. If interested, drop us an e-mail as soon as possible to <mailto:xavier.giro@upc.edu> and <mailto:elisa.sayrol@upc.edu> explaining your case and we will reach you back. This course may also be available as training for companies.
+* Master and Phd students at UPC: You can already sign up for the course in your academic office. The [official study programme](http://www.etsetb.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf)
+* Bachelor students at UPC: You cannot sign up for the course yet. You can track [this issue](https://github.com/imatge-upc/dlcv-2016/issues/1) to receive a notification when registration opens.
+* Students from other universities whose host institution has signed a mobility agreement with UPC ETSETB Telecom BCN school: You can request a mobility from your host institution and sign up for the course under the same conditions as UPC Phd, master or bachelor students.
+* Students from other universities whose host institution has not signed a mobility agreement with UPC ETSETB Telecom BCN school: You can still register as a visiting student. 
+
+For further administrative details, please contact [ETSETB Telecom BCN academic office](https://www.etsetb.upc.edu/documents/tkybbvmr.html), and please also share your question and solution in the [public issues](https://github.com/imatge-upc/dlcv-2016/issues) section for future reference and quality improvement of the course.
 
 ## Temptative Sessions, Schedule and Related Papers (Under progress)
 
