@@ -44,6 +44,7 @@
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
 * Dates: 4-9 July, 2016
 * Schedule: 3-7pm
+* Capacity: 20 students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
 
