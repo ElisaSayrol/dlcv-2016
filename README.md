@@ -37,17 +37,20 @@
 [logo-insight]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/dcu.png "Dublin City University"
 
-## Study guide
+## Practical
 * Course code: 230360 (Phd & master) / To be announced (Bachelor)
 * ECTS credits: 2.5 (between 62.5 and 75 hours, which corresponds to full-time dedication during the week course)
 * Teaching language: English
-* The course will be offered for both master and bachelor students, but under two study programmes adapted to each profile.
+* The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
+* Dates: 4-9 July, 2016
+* Schedule: 3-7pm
+* Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
 
 ## Registration
-Registration procedurs depends on the student profile:
+Registration procedure depends on the student profile:
 
-* Master and Phd students at UPC: You can already sign up for the course in your academic office. The [official study programme](http://www.etsetb.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf)
+* Master and Phd students at UPC: You can already sign up for the course from the academic office of your school or department. The [official study programme](http://www.etsetb.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf)
 * Bachelor students at UPC: You cannot sign up for the course yet. You can track [this issue](https://github.com/imatge-upc/dlcv-2016/issues/1) to receive a notification when registration opens.
 * Students from other universities whose host institution has signed a mobility agreement with UPC ETSETB Telecom BCN school: You can request a mobility from your host institution and sign up for the course under the same conditions as UPC Phd, master or bachelor students.
 * Students from other universities whose host institution has not signed a mobility agreement with UPC ETSETB Telecom BCN school: You can still register as a visiting student. 
@@ -63,16 +66,25 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 #### Lecture 1.1
 
 3:00 XG: Intro
-3:20 AS: Layers
-3:40 ES: Backpropagation
+
+3:20 KM: Layers
+
+
+
+3:40 ES: Back-propagation
+
+* LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner. ["Gradient-based learning applied to document recognition."](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) Proceedings of the IEEE 86, no. 11 (1998): 2278-2324.
+
+* Srivastava, Nitish, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov. ["Dropout: A simple way to prevent neural networks from overfitting."](http://www.cs.utoronto.ca/~hinton/absps/JMLRdropout.pdf) The Journal of Machine Learning Research 15, no. 1 (2014): 1929-1958. 
+
 
 ### Lab 1
 4:00 XG & AS: MNIST classification
 
 ### Lecture 1.2
-5:00 KM: Computational requirements 
-5:20 EM: ?
-5:40 KM: Memory requirements
+5:00 KM: Computational & memory requirements 
+5:20 EM: Filter sizes and receptive field
+5:40 KM: Software frameworks
 
 ### Project 1
 (to be decided)
@@ -93,6 +105,14 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 #### Lecture 2.2
 
 6:00 XG: Imagenet ILSRVC
+
+* Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. ["Imagenet classification with deep convolutional neural networks."](http://papers.nips.cc/paper/4824-imagenet-classification-w) In Advances in neural information processing systems, pp. 1097-1105. 2012.
+
+* Simonyan, Karen, and Andrew Zisserman. ["Very deep convolutional networks for large-scale image recognition."](http://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556 (2014). 
+
+
+* Szegedy, Christian, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. ["Going Deeper With Convolutions."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1-9. 2015.
+
 * Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, ["Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning"](http://arxiv.org/abs/1602.07261) Arxiv 1602.07261.
 
 6:20 KM: Saliency prediction
