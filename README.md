@@ -229,3 +229,14 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 
 If you have any general doubt about the course which may be of interest for other researchers, please use the [public issues section](https://github.com/imatge-upc/dlcv-2016/issues) on this github repo. Alternatively, drop us an e-mail at <mailto:xavier.giro@upc.edu> and <mailto:elisa.sayrol@upc.edu>.
 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7678045-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
