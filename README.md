@@ -109,7 +109,7 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 
 #### Lecture 2.2
 
-6:00 XG: Imagenet ILSRVC
+5:00 XG: Imagenet ILSRVC
 
 * Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. ["Imagenet classification with deep convolutional neural networks."](http://papers.nips.cc/paper/4824-imagenet-classification-w) In Advances in neural information processing systems, pp. 1097-1105. 2012.
 
@@ -119,7 +119,7 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 
 * Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, ["Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning"](http://arxiv.org/abs/1602.07261) Arxiv 1602.07261.
 
-6:20 KM: Saliency prediction
+5:20 KM: Saliency prediction
 
 * Huang, Xun, Chengyao Shen, Xavier Boix, and Qi Zhao. ["SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Huang_SALICON_Reducing_the_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 262-270. 2015.
 
@@ -128,7 +128,7 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 * Junting Pan, Kevin McGuinness, Elisa Sayrol, Noel O'Connor, and Xavier Giro-i-Nieto. ["Shallow and Deep Convolutional Networks for Saliency Prediction."](http://arxiv.org/abs/1603.00845) In Proceedings of the IEEE International Conference on Computer Vision. 2016. [[code]](https://github.com/imatge-upc/saliency-2016-cvpr)
 
 
-6:00 ES: Face detection and recognition
+5:40 ES: Face detection and recognition
 
 * Schroff, Florian, Dmitry Kalenichenko, and James Philbin. ["FaceNet: A Unified Embedding for Face Recognition and Clustering."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [[Code by OpenFace]](https://github.com/cmusatyalab/openface)
 
@@ -142,7 +142,7 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 
 ### Wednesday 7 July 2016
 
-#### Lecture 4.1
+#### Lecture 3.1
 
 3:00 AS: Annotation
 
@@ -155,7 +155,6 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 * Arandjelović, Relja, Petr Gronat, Akihiko Torii, Tomas Pajdla, and Josef Sivic. ["NetVLAD: CNN architecture for weakly supervised place recognition."](http://arxiv.org/abs/1511.07247) arXiv preprint arXiv:1511.07247 (2015).
 
 * Hariharan, Bharath, Pablo Arbeláez, Ross Girshick, and Jitendra Malik. ["Hypercolumns for object segmentation and fine-grained localization."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 447-456. 2015.
-
 
 3:40 XG: Semantic segmentation
 
@@ -171,17 +170,15 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 #### Lecture 3.2
 
 
-6:00 AS: Object proposals
+5:00 AS: Object proposals
 
 * Kuo, Weicheng, Bharath Hariharan, and Jitendra Malik. ["Deepbox: Learning objectness with convolutional networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kuo_DeepBox_Learning_Objectness_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 2479-2487. 2015. [[code]](https://github.com/weichengkuo/DeepBox)
 
-6:20 EM: Retrieval
-
-
+5:20 EM: Retrieval
 
 * Kalantidis, Yannis, Clayton Mellina, and Simon Osindero. ["Cross-dimensional Weighting for Aggregated Deep Convolutional Features."](http://gitxiv.com/posts/PcB7dQsXoSHFAPzTX/cross-dimensional-weighting-for-aggregated-deep) arXiv preprint arXiv:1512.04065 (2015).
 
-6:40 AS: Object detection
+5:40 AS: Object detection
 
 * Ren, Shaoqing, Kaiming He, Ross Girshick, and Jian Sun. ["Faster R-CNN: Towards real-time object detection with region proposal networks."](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks) In Advances in Neural Information Processing Systems, pp. 91-99. 2015.
 *  Caicedo, Juan C., and Svetlana Lazebnik. ["Active object localization with deep reinforcement learning."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Caicedo_Active_Object_Localization_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 2488-2496. 2015
@@ -216,13 +213,13 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 
 #### Lecture 4.2
 
-6:00 XG: Visual and text
+5:00 XG: Visual and text
 
 * Karpathy, Andrej, and Li Fei-Fei. ["Deep visual-semantic alignments for generating image descriptions."](http://cs.stanford.edu/people/karpathy/deepimagesent/) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3128-3137. 2015.
 
 * Donahue, Jeffrey, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, and Trevor Darrell. ["Long-term recurrent convolutional networks for visual recognition and description."](http://jeffdonahue.com/lrcn/) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2625-2634. 2015.
 
-6:20 XG: Video processing
+5:20 XG: Video processing
 
 * Karpathy, A., Toderici, G., Shetty, S., Leung, T., Sukthankar, R., & Fei-Fei, L. (2014, June). [Large-scale video classification with convolutional neural networks](http://cs.stanford.edu/people/karpathy/deepvideo/). In Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on (pp. 1725-1732). IEEE.
 
@@ -235,7 +232,7 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 * P. Ondruska and I. Posner, [“Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks”](http://www.robots.ox.ac.uk/~mobile/Papers/2016AAAI_ondruska.pdf), in The Thirtieth AAAI Conference on Artificial Intelligence (AAAI), Phoenix, Arizona USA, 2016. [[code]](https://github.com/pondruska/DeepTracking)
 
 
-6:40 ES: Deep art
+5:40 ES: Deep art
 
 ### Project 4
 (to be decided)
