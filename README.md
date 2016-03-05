@@ -3,7 +3,51 @@
 
 Organizers: ETSETB TelecomBCN - Universitat Politecnica de Catalunya and Insight Center for Data Analytics - Dublin City University.
 
-Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), Kevin McGuinness (KM) and Eva Mohedano (EM)
+## Instructors
+
+| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Elisa Sayrol][ElisaSayrol-photo]  | ![AmaiaSalvador][AmaiaSalvador-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
+|:-:|:-:|:-:|:-:|:-:|
+| [Xavier Giro-i-Nieto (XG)](XavierGiro-web) | [Elisa Sayrol (ES)](Elisa Sayrol-web)  | [Amaia Salvador (AS)](AmaiaSalvador-web) |   [EvaMohedano (EM)](EvaMohedano-web)  | [Kevin McGuinness (KM)](KevinMcGuinness-web)     |
+
+[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
+[ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
+[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador 
+[EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
+[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
+
+[XavierGiro-photo]: https://github.com/imatge-upc/dlcv-2016/blob/master/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+[ElisaSayrol-photo]: https://github.com/imatge-upc/dlcv-2016/blob/master/instructors/ElisaSayrol.jpg "Elisa Sayrol"
+[AmaiaSalvador-photo]: https://github.com/imatge-upc/dlcv-2016/blob/master/instructors/AmaiaSalvador.jpg "Amaia Salvador"
+[EvaMohedano-photo]: https://github.com/imatge-upc/dlcv-2016/blob/master/instructors/EvaMohedano.jpg "Eva Mohedano"
+[KevinMcGuinness-photo]: https://github.com/imatge-upc/dlcv-2016/blob/master/instructors/KevinMcGuinness.jpg "Kevin McGuinness"
+
+## Organizers
+
+| ![logo-etsetb] | ![logo-gpi] | ![logo-upc] | ![logo-insight] | ![logo-dcu] | 
+|:-:|:-:|:-:|:-:|:-:|
+| [UPC ETSETB TelecomBCN](etsetb-web) | [UPC Image Processing Group](gpi-web) | [Universitat Politecnica de Catalunya (UPC)](upc-web) | [Insight Centre for Data Analytics](insight-web) | [Dublin City University (DCU)](dcu-web) | 
+
+[etsetb-web]: https://www.etsetb.upc.edu/en/ 
+[upc-web]: http://www.upc.edu/?set_language=en 
+[gpi-web]: https://imatge.upc.edu/web/
+[insight-web]: https://www.insight-centre.org/ 
+[dcu-web]: http://www.dcu.ie/
+
+[logo-etsetb]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/etsetb.png "ETSETB TelecomBCN"
+[logo-gpi]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/gpi.png "UPC Image Processing Group"
+[logo-upc]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/upc.jpg "Universitat Politecnica de Catalunya"
+[logo-insight]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/insight.jpg "Insight Centre for Data Analytics"
+[logo-dcu]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/dcu.png "Dublin City University"
+
+
+## Registration
+Registration procedurs depends on the student profile:
+
+* Master students at ETSETB Telecom BCN: You can already sign up for the course in the academic office. Official study program available here.
+* Bachelor students at ETSETB
+* Phd students at UPC
+* Other Phd students
+* Other cases: There may be open spots in June for other student and professional profiles. If interested, drop us an e-mail as soon as possible to <mailto:xavier.giro@upc.edu> and <mailto:elisa.sayrol@upc.edu> explaining your case and we will reach you back. This course may also be available as training for companies.
 
 ## Temptative Sessions, Schedule and Related Papers (Under progress)
 
@@ -164,4 +208,19 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 6:30 XG: Feedback from students
 6:50 ALL: Awards ceremony
 
+
+## Acknowledgements
+
+|   |   |
+|:--|:-:|
+| This course is co-funded by the Erasmus+ programme from the European Union | ![logo-erasmus] |
+|  We gratefully acknowledge the support of [NVIDIA Corporation](http://www.nvidia.com/content/global/global.php) with the donation of the GeoForce GTX [Titan Z](http://www.nvidia.com/gtx-700-graphics-cards/gtx-titan-z/) and [Titan X](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-titan-x) used in this work. |  ![logo-nvidia] |
+
+[logo-erasmus]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/erasmus.jpg "Erasmus logo"
+[logo-nvidia]: https://github.com/imatge-upc/dlcv-2016/blob/master/logos/nvidia.jpg "Logo of NVidia"
+
+
+## Contact
+
+If you have any general doubt about the course which may be of interest for other researchers, please use the [public issues section](https://github.com/imatge-upc/dlcv-2016/issues) on this github repo. Alternatively, drop us an e-mail at <mailto:xavier.giro@upc.edu> and <mailto:elisa.sayrol@upc.edu>.
 
