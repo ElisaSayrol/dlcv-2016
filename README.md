@@ -69,8 +69,6 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 
 3:20 KM: Layers
 
-
-
 3:40 ES: Back-propagation
 
 * LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner. ["Gradient-based learning applied to document recognition."](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) Proceedings of the IEEE 86, no. 11 (1998): 2278-2324.
@@ -82,8 +80,11 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 4:00 XG & AS: MNIST classification
 
 ### Lecture 1.2
+
 5:00 KM: Computational & memory requirements 
+
 5:20 EM: Filter sizes and receptive field
+
 5:40 KM: Software frameworks
 
 ### Project 1
@@ -96,8 +97,12 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 #### Lecture 2.1
 
 3:00 AS: Data augmentation
+
 3:20 EM: Visualization
+
 3:40 AS: Domain adaptation (fine-tunning)
+
+
 
 ### Lab 2
 4:00 EM & KM: Visualization
@@ -109,7 +114,6 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 * Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. ["Imagenet classification with deep convolutional neural networks."](http://papers.nips.cc/paper/4824-imagenet-classification-w) In Advances in neural information processing systems, pp. 1097-1105. 2012.
 
 * Simonyan, Karen, and Andrew Zisserman. ["Very deep convolutional networks for large-scale image recognition."](http://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556 (2014). 
-
 
 * Szegedy, Christian, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. ["Going Deeper With Convolutions."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1-9. 2015.
 
@@ -141,10 +145,27 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 #### Lecture 4.1
 
 3:00 AS: Annotation
+
+* Russakovsky, Olga, Li-Jia Li, and Li Fei-Fei. ["Best of both worlds: human-machine collaboration for object annotation."](http://ai.stanford.edu/~olga/best_of_both_worlds.html) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015
+
 3:20 EM: Global and Local features
+
+* Razavian, Ali, Hossein Azizpour, Josephine Sullivan, and Stefan Carlsson. ["CNN features off-the-shelf: an astounding baseline for recognition."](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W15/html/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp. 806-813. 2014.
+
+* Arandjelović, Relja, Petr Gronat, Akihiko Torii, Tomas Pajdla, and Josef Sivic. ["NetVLAD: CNN architecture for weakly supervised place recognition."](http://arxiv.org/abs/1511.07247) arXiv preprint arXiv:1511.07247 (2015).
+
+* Hariharan, Bharath, Pablo Arbeláez, Ross Girshick, and Jitendra Malik. ["Hypercolumns for object segmentation and fine-grained localization."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 447-456. 2015.
+
+
 3:40 XG: Semantic segmentation
 
+* Farabet, Clement, Camille Couprie, Laurent Najman, and Yann LeCun. ["Learning hierarchical features for scene labeling."](http://www.clement.farabet.net/research.html#parsing) Pattern Analysis and Machine Intelligence, IEEE Transactions on 35, no. 8 (2013): 1915-1929
+
+* Long, Jonathan, Evan Shelhamer, and Trevor Darrell. ["Fully convolutional networks for semantic segmentation."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3431-3440. 2015.
+
+
 ### Lab 3
+
 4:00 XG & AS: Domain adaptation (fine-tunning)
 
 #### Lecture 3.2
@@ -156,7 +177,7 @@ For further administrative details, please contact [ETSETB Telecom BCN academic 
 
 6:20 EM: Retrieval
 
-* Arandjelović, Relja, Petr Gronat, Akihiko Torii, Tomas Pajdla, and Josef Sivic. ["NetVLAD: CNN architecture for weakly supervised place recognition."](http://arxiv.org/abs/1511.07247) arXiv preprint arXiv:1511.07247 (2015).
+
 
 * Kalantidis, Yannis, Clayton Mellina, and Simon Osindero. ["Cross-dimensional Weighting for Aggregated Deep Convolutional Features."](http://gitxiv.com/posts/PcB7dQsXoSHFAPzTX/cross-dimensional-weighting-for-aggregated-deep) arXiv preprint arXiv:1512.04065 (2015).
 
