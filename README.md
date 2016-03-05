@@ -50,7 +50,16 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 
 * Huang, Xun, Chengyao Shen, Xavier Boix, and Qi Zhao. ["SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Huang_SALICON_Reducing_the_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 262-270. 2015.
 
-6:40 AS: Object proposals
+* Kruthiventi, Srinivas SS, Kumar Ayush, and R. Venkatesh Babu. ["DeepFix: A Fully Convolutional Neural Network for predicting Human Eye Fixations."](http://arxiv.org/abs/1510.02927) In Proceedings of the IEEE International Conference on Computer Vision. 2016.
+
+* Junting Pan, Kevin McGuinness, Elisa Sayrol, Noel O'Connor, and Xavier Giro-i-Nieto. ["Shallow and Deep Convolutional Networks for Saliency Prediction."](http://arxiv.org/abs/1603.00845) In Proceedings of the IEEE International Conference on Computer Vision. 2016. [[code]](https://github.com/imatge-upc/saliency-2016-cvpr)
+
+
+6:00 ES: Face detection and recognition
+
+* Schroff, Florian, Dmitry Kalenichenko, and James Philbin. ["FaceNet: A Unified Embedding for Face Recognition and Clustering."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [[Code by OpenFace]](https://github.com/cmusatyalab/openface)
+
+* Parkhi, Omkar M., Andrea Vedaldi, and Andrew Zisserman. ["Deep face recognition."](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/) Proceedings of the British Machine Vision 1, no. 3 (2015): 6.
 
 
 ### Project 2
@@ -71,9 +80,14 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 
 #### Lecture 3.2
 
-6:00 ES: Face detection and recognition
+
+6:00 AS: Object proposals
+
+* Kuo, Weicheng, Bharath Hariharan, and Jitendra Malik. ["Deepbox: Learning objectness with convolutional networks."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Kuo_DeepBox_Learning_Objectness_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 2479-2487. 2015. [[code]](https://github.com/weichengkuo/DeepBox)
 
 6:20 EM: Retrieval
+
+* Arandjelović, Relja, Petr Gronat, Akihiko Torii, Tomas Pajdla, and Josef Sivic. ["NetVLAD: CNN architecture for weakly supervised place recognition."](http://arxiv.org/abs/1511.07247) arXiv preprint arXiv:1511.07247 (2015).
 
 * Kalantidis, Yannis, Clayton Mellina, and Simon Osindero. ["Cross-dimensional Weighting for Aggregated Deep Convolutional Features."](http://gitxiv.com/posts/PcB7dQsXoSHFAPzTX/cross-dimensional-weighting-for-aggregated-deep) arXiv preprint arXiv:1512.04065 (2015).
 
@@ -92,6 +106,7 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 #### Lecture 4.1
 
 3:00 KM: Recurrent Neural Networks
+
 * Andrej Karpathy, ["The Unreasonable Effectiveness of Recurrent Neural Networks"](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 3:20 ES: Adversarial networks
@@ -99,6 +114,8 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 * [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](http://arxiv.org/abs/1602.02697)
 
 3:40 XG: Generative models
+
+* Radford, Alec, Luke Metz, and Soumith Chintala. ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](http://arxiv.org/abs/1511.06434) International Conference on Learning Representations (2016).
 
 * Eric Jian, ["Understanding and Implementing Deepmind's DRAW Model"] (http://evjang.com/articles/draw)
 
@@ -109,13 +126,25 @@ Instructors: Xavier Giro-i-Nieto (XG), Elisa Sayrol (ES), Amaia Salvador (AS), K
 
 #### Lecture 4.2
 
-6:00 XG: Captioning
+6:00 XG: Visual and text
 
 * Karpathy, Andrej, and Li Fei-Fei. ["Deep visual-semantic alignments for generating image descriptions."](http://cs.stanford.edu/people/karpathy/deepimagesent/) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3128-3137. 2015.
 
 * Donahue, Jeffrey, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, and Trevor Darrell. ["Long-term recurrent convolutional networks for visual recognition and description."](http://jeffdonahue.com/lrcn/) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2625-2634. 2015.
 
-6:20 AS: Video processing
+6:20 XG: Video processing
+
+* Karpathy, A., Toderici, G., Shetty, S., Leung, T., Sukthankar, R., & Fei-Fei, L. (2014, June). [Large-scale video classification with convolutional neural networks](http://cs.stanford.edu/people/karpathy/deepvideo/). In Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on (pp. 1725-1732). IEEE.
+
+* Srivastava, Nitish, Elman Mansimov, and Ruslan Salakhutdinov. ["Unsupervised learning of video representations using LSTMs."](http://arxiv.org/abs/1502.04681) arXiv preprint arXiv:1502.04681 (2015).
+
+* Yue-Hei Ng, Joe, Matthew Hausknecht, Sudheendra Vijayanarasimhan, Oriol Vinyals, Rajat Monga, and George Toderici. ["Beyond short snippets: Deep networks for video classification."](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Ng_Beyond_Short_Snippets_2015_CVPR_paper.html) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 4694-4702. 2015.
+
+* Dosovitskiy, A., Fischer, P., Ilg, E., Hausser, P., Hazirbas, C., Golkov, V., van der Smagt, P., Cremers, D. and Brox, T., 2015. [FlowNet: Learning Optical Flow With Convolutional Networks](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.html). In Proceedings of the IEEE International Conference on Computer Vision (pp. 2758-2766).
+
+* P. Ondruska and I. Posner, [“Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks”](http://www.robots.ox.ac.uk/~mobile/Papers/2016AAAI_ondruska.pdf), in The Thirtieth AAAI Conference on Artificial Intelligence (AAAI), Phoenix, Arizona USA, 2016. [[code]](https://github.com/pondruska/DeepTracking)
+
+
 6:40 ES: Deep art
 
 ### Project 4
