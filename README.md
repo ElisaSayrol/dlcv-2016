@@ -52,7 +52,8 @@
 Registration procedure depends on the student profile:
 
 * Master and Phd students at UPC: You can already sign up for the course from the academic office of your school or department. More details in the [official study programme](http://www.etsetb.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf)
-* Bachelor students at UPC: You cannot sign up for the course yet. You can track [this issue](https://github.com/imatge-upc/dlcv-2016/issues/1) to receive a notification when registration opens.
+* Bachelor students at UPC: You cannot sign up for the course yet. You can track [this issue](https://github.com/imatge-upc/dlcv-2016/issues/1) to receive a notification when the additional registration period for ETSETB seminars opens in June.
+to receive a notification when the additional registration period for seminars opens in June.
 * Students from other universities whose host institution has signed a mobility agreement with UPC ETSETB Telecom BCN school: You can request a mobility from your host institution and sign up for the course under the same conditions as UPC Phd, master or bachelor students.
 * Students from other universities whose host institution has not signed a mobility agreement with UPC ETSETB Telecom BCN school: You can still register as a visiting student. 
 
